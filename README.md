@@ -1,10 +1,8 @@
-## Proudly made with ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
 
 # Robotic arm control using Mobile phone 
 
-A Robotic Arm with gripper end effector developed using 3d printed parts (FDM) and arduino  for my undergraduate mini-project requirement.(Mechatronics) 
-[Download and Try it out](https://github.com/MasterJain/apex_soundboard/raw/main/apex.apk "Download and Try it out(Android only)")
+A Robotic Arm with gripper end effector developed using 3d printed parts (FDM) and arduino  for my undergraduate mini-project.(Mechatronics) 
+[Download APK](https://github.com/MasterJain/RoboticArm/blob/main/RobotArm.apk?raw=true "Download APK")
 
 ## Installation 
 
@@ -28,23 +26,21 @@ You can create your own robotic arm by following the steps given below:
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Voice Quips Page</td>
-     <td>Video (IOS App) -</td>
+    <td> </td>
+     <td> </td> 
+     <td> </td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MasterJain/apex_soundboard/main/assets/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-05-31%20at%2023.00.05.png" width=270 height=480></td>
-    <td><img src="https://raw.githubusercontent.com/MasterJain/apex_soundboard/main/assets/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-05-29%20at%2016.18.08.png" width=270 height=480></td>
+    <td><img src="https://github.com/MasterJain/RoboticArm/raw/main/1.png" width=270 height=480></td>
+    <td><img src="https://github.com/MasterJain/RoboticArm/raw/main/2.png" width=270 height=480></td>
     <td>
-      <video src='https://user-images.githubusercontent.com/41005631/171324045-4c217759-2dea-4f96-b245-96a63940af06.mp4' width=270 height=480>
+      <img src='https://github.com/MasterJain/RoboticArm/blob/main/1.png?raw=true' width=270 height=480>
 
      </td>
   </tr>
  </table>
 
-## Appendix
 
-***Voice Quips can be downloaded on iOS by using share feature***
 
 ## Ihr alle gebt meinem Leben einen Sinn.
 
