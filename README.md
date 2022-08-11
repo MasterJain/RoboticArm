@@ -24,7 +24,7 @@ You can create your own robotic arm by following the steps given below:
 - Turn on the power supply and pair the bluetooth module 
 -Connect to bluetooth module via app and voila now you can operate the robotic arm
 
-## Screenshots
+## Screenshots of App
 
 <table>
   <tr>
@@ -41,7 +41,7 @@ You can create your own robotic arm by following the steps given below:
 
 ## Pictures/Working Video
 <img src="https://github.com/MasterJain/RoboticArm/raw/main/images/final%20pic.jfif">
-<video src='https://github.com/MasterJain/RoboticArm/raw/main/Robot%20Arm%20Working%20Video.mp4'></video>
+<video src='https://user-images.githubusercontent.com/41005631/184124222-30ea8c8f-b80d-421f-8cb8-a99422268cee.mp4'></video>
     
 
 
