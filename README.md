@@ -39,10 +39,10 @@ You can create your own robotic arm by following the steps given below:
   </tr>
  </table>
  
- ## Pictures/Working Video
- <img src="https://github.com/MasterJain/RoboticArm/raw/main/3.png" width=270 height=480>
- <video src='https://user-images.githubusercontent.com/41005631/171324045-4c217759-2dea-4f96-b245-96a63940af06.mp4' width=270 height=480>
-
+## Pictures/Working Video
+<img src="https://github.com/MasterJain/RoboticArm/raw/main/final%20pic.jfif">
+<video src='https://user-images.githubusercontent.com/41005631/171324045-4c217759-2dea-4f96-b245-96a63940af06.mp4' width=270 height=480/>
+    
 
 
 ## Ihr alle gebt meinem Leben einen Sinn.
