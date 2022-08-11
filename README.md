@@ -18,6 +18,8 @@ You can create your own robotic arm by following the steps given below:
 - Upload the code to your Arduino Uno or Nano (Arduino Uno Recommended)
 - Make connections as per the circuit diagram shown here
 
+<img src="https://github.com/MasterJain/RoboticArm/raw/main/circuit%20diagram.png">
+
 - Download the apk file and install
 - Turn on the power supply and pair the bluetooth module 
 -Connect to bluetooth module via app and voila now you can operate the robotic arm
@@ -33,12 +35,13 @@ You can create your own robotic arm by following the steps given below:
   <tr>
     <td><img src="https://github.com/MasterJain/RoboticArm/raw/main/1.png" width=270 height=480></td>
     <td><img src="https://github.com/MasterJain/RoboticArm/raw/main/2.png" width=270 height=480></td>
-    <td>
-      <img src='https://github.com/MasterJain/RoboticArm/blob/main/1.png?raw=true' width=270 height=480>
-
-     </td>
+      <td><img src="https://github.com/MasterJain/RoboticArm/raw/main/3.png" width=270 height=480></td>
   </tr>
  </table>
+ 
+ ## Pictures/Working Video
+ <img src="https://github.com/MasterJain/RoboticArm/raw/main/3.png" width=270 height=480>
+ <video src='https://user-images.githubusercontent.com/41005631/171324045-4c217759-2dea-4f96-b245-96a63940af06.mp4' width=270 height=480>
 
 
 
