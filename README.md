@@ -46,8 +46,4 @@ You can create your own robotic arm by following the steps given below:
 </p>    
 
 
-## Ihr alle gebt meinem Leben einen Sinn.
 
-- ***For Emma❤️***
-- ***For Dad***
-- ***For Mr and Mrs Jaschniski***
